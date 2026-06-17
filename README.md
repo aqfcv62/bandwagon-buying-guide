@@ -9,21 +9,13 @@
 搬瓦工的套餐分三个主要档次：入门 KVM、主力 CN2 GIA-E、高端香港/东京 CN2 GIA。除常规套餐外，还有不定期推出的限量版套餐，价格比常规套餐低很多，但经常缺货。
 
 | 套餐系列 | 配置参考 | 价格 | 可用机房 | 购买链接 |
-
-|---|---|---|---|---|---|
-
-| KVM 入门 A | 1 核 / 1TB 月流量 / 20GB SSD | $49.99/年 | DC3 CN2、DC8、ZNET 等 8 个 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=57) |
-
-| KVM 入门 B | 1 核 / 2TB 月流量 / 40GB SSD | $99.99/年（$52.99/半年） | 同上 8 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=58) |
-
-| CN2 GIA-E A | 1 核 / 1TB 月流量 / 20GB SSD | $169.99/年（$49.99/季） | DC6、DC9、日本软银等 12 个 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=104) |
-
-| CN2 GIA-E B | 2 核 / 2TB 月流量 / 40GB SSD | $299.99/年（$89.99/季） | 同上 12 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=105) |
-
-| 香港 CN2 GIA A | 2 核 / 500GB 月流量 / 40GB SSD | $89.99/月 / $899.99/年 | 香港 HKHK_8 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=87) |
-
-| 香港 CN2 GIA B | 2 核 / 1TB 月流量 / 40GB SSD | $155.99/月 / $1559.99/年 | 香港 HKHK_8 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=88) |
-
+|---|---|---|---|---|
+| KVM 入门 A | 1 核 / 1TB 月流量 / 20GB SSD | $49.99/年 | DC3 CN2、DC8、ZNET 等 8 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=57) |
+| KVM 入门 B | 1 核 / 2TB 月流量 / 40GB SSD | $99.99/年；$52.99/半年 | DC3 CN2、DC8、ZNET 等 8 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=58) |
+| CN2 GIA-E A | 1 核 / 1TB 月流量 / 20GB SSD | $169.99/年；$49.99/季 | DC6、DC9、日本软银等 12 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=104) |
+| CN2 GIA-E B | 2 核 / 2TB 月流量 / 40GB SSD | $299.99/年；$89.99/季 | DC6、DC9、日本软银等 12 个机房 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=105) |
+| 香港 CN2 GIA A | 2 核 / 500GB 月流量 / 40GB SSD | $89.99/月；$899.99/年 | 香港 HKHK_8 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=87) |
+| 香港 CN2 GIA B | 2 核 / 1TB 月流量 / 40GB SSD | $155.99/月；$1559.99/年 | 香港 HKHK_8 | [👉 购买此方案](https://bwh81.net/aff.php?aff=80238&pid=88) |
 👉 [查看搬瓦工全部在售套餐与当前优惠](https://bit.ly/BanWaGon)
 
 ---
